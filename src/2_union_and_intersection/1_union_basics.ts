@@ -1,6 +1,6 @@
 /**
  * Union Basics
- *
+ * Or
  * 유니온은 ts에서 타입을 병합할 수 있는 수많은 방법중 하나이다.
  */
 type StringOrBooleanType = string | boolean;
